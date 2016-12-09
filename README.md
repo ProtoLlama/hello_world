@@ -1,2 +1,2 @@
 # hello_world
-the slow purple fox leaped
+the slow pink fox leaped
